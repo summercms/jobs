@@ -6,8 +6,6 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 
 ## Roles Available:
 
-- [Blockchain Engineer](blockchain-engineer.md)
-- [Full Stack Engineer](full-stack-engineer.md)
 - [Infrastructure Engineer](inf-engineer.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
