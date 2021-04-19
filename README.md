@@ -6,6 +6,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 
 ## Roles Available:
 
+- [VP of Engineering](vp-engineering.md)
 - [Infrastructure Engineer](inf-engineer.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
