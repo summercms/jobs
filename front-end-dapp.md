@@ -2,7 +2,7 @@
 
 **[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4476682003).**
 
-We are looking for a fast paced, level headed, proactive Frontend Dapp Developer. The ideal candidate has in-depth knowledge of the blockchain industry, proven experience building robust Frontend for Dapp’s that have subsequently been launched onto Blockchain platforms. A strong grasp of coding best practices also.     
+We are looking for a fast paced, level headed, proactive Frontend dApp Developer. The ideal candidate has in-depth knowledge of the blockchain industry, proven experience building robust Frontend for Dapp’s that have subsequently been launched onto Blockchain platforms. A strong grasp of coding best practices also.     
 
 # What you will do:
 
