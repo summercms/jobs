@@ -11,6 +11,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [Infrastructure Engineer](inf-engineer.md)
 - [Tech Lead - Protocol](https://github.com/bosonprotocol/jobs/blob/master/Tech-Lead-Protocol.md) 
 - [Developer Relations Advocate](https://github.com/bosonprotocol/jobs/blob/master/developer-relations.md)
+- [Head of Engineering](https://github.com/bosonprotocol/jobs/commit/ed6a147b97654caa1ff0b1b10e1934c19910de00)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
 
