@@ -10,6 +10,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [Front End dApp Developer](front-end-dapp.md)
 - [Infrastructure Engineer](inf-engineer.md)
 - [Tech Lead - Protocol](https://github.com/bosonprotocol/jobs/blob/master/Tech-Lead-Protocol.md) 
+- [Developer Relations Advocate](https://github.com/bosonprotocol/jobs/blob/master/developer-relations.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
 
