@@ -1,4 +1,4 @@
-#Teach Lead - Protocol
+# Tech Lead - Protocol
 **[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4509933003).**
 
 ## Role Summary
