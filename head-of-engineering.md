@@ -2,7 +2,7 @@
 **[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4504804003).**
 
 ## Role Summary 
-We are looking for an experienced Developer Relations engineer who will empower developers in smooth integration with Boson Protocol. This is a high-impact role and you will be responsible for the perception of Boson Protocol in the developer community, in order to establish its position as the go-to building block in dCommerce. The ideal candidate is experienced in organizing the technical side of the product as it is exposed to developers: speaking to the developer community, gathering SDK requirements, maintaining documentation, organizing tooling.
+We are looking for an experienced, proactive Head of engineering, with substantial experience in a similar position to join our growing team. The ideal candidate has a proven track record of successfully managing global teams of developers, has extensive experience in building high-tech products, has in-depth knowledge of the blockchain industry, is familiar with state of the art CI/CD pipelines, has internalized Agile practices and knows how to recruit and grow engineering teams under equal opportunities principles. 
 
 The role open is for a long-term relationship, working predominantly remotely and you can expect to become an integral part of a diverse international team.
 
