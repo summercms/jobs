@@ -9,7 +9,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [VP of Engineering](vp-engineering.md)
 - [Front End dApp Developer](front-end-dapp.md)
 - [Infrastructure Engineer](inf-engineer.md)
-- [Tech Lead - Protocol] (Tech-Lead-Protocol.md) 
+- [Tech Lead - Protocol] (https://github.com/bosonprotocol/jobs/blob/master/Tech-Lead-Protocol.md) 
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
 
