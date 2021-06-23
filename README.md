@@ -6,7 +6,6 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 
 ## Roles Available:
 
-- [VP of Engineering](vp-engineering.md)
 - [Front End dApp Developer](front-end-dapp.md)
 - [Infrastructure Engineer](inf-engineer.md)
 - [Developer Relations Advocate](https://github.com/bosonprotocol/jobs/blob/master/developer-relations.md)
