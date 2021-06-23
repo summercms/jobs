@@ -9,7 +9,6 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [VP of Engineering](vp-engineering.md)
 - [Front End dApp Developer](front-end-dapp.md)
 - [Infrastructure Engineer](inf-engineer.md)
-- [Tech Lead - Protocol](https://github.com/bosonprotocol/jobs/blob/master/Tech-Lead-Protocol.md) 
 - [Developer Relations Advocate](https://github.com/bosonprotocol/jobs/blob/master/developer-relations.md)
 - [Head of Engineering](https://github.com/bosonprotocol/jobs/blob/master/head-of-engineering.md)
 - [Technical Product Manager](https://github.com/bosonprotocol/jobs/blob/master/technical-product-manager.md)
