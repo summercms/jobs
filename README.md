@@ -9,7 +9,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [Developer Relations Advocate](https://github.com/bosonprotocol/jobs/blob/master/developer-relations.md)
 - [Head of Engineering](https://github.com/bosonprotocol/jobs/blob/master/head-of-engineering.md)
 - [Technical Product Manager](https://github.com/bosonprotocol/jobs/blob/master/technical-product-manager.md)
-- [Technical Product Manager](https://github.com/bosonprotocol/jobs/blob/master/technical-product-manager.md)
+- [Technical Lead](https://github.com/bosonprotocol/jobs/blob/master/technical-product-manager.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
 
