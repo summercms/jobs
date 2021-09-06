@@ -8,7 +8,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 
 - [Developer Relations Advocate](https://github.com/bosonprotocol/jobs/blob/master/developer-relations.md)
 - [Technical Lead](https://github.com/bosonprotocol/jobs/blob/master/Tech-Lead-Protocol.md)
-
+- [Senior Blockchain Engineer](https://github.com/bosonprotocol/jobs/edit/master/blockchain-engineer.md)
 All of our positions are **full time, remote-first,** and **pay competitively.**
 
 ## Why work with us
